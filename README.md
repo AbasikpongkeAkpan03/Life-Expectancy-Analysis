@@ -1,6 +1,16 @@
 # Life-Expectancy-Analysis
 This involves the step-by-step Analysis of Life Expectancy Dataset.
 
+## Table of Contents
+- [Project Overview](project-overview)
+- [Data Source](data-source)
+- [Tools](tools)
+- [Data Cleaning](data-cleaning)
+- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Result and Findings](result-and-findings)
+- [Recommendations](recommendations)
+- [Limitations](limitations)
+
 
 ### Project Overview
 This project aims to analyse and extract key insights into life expectancies in various countries and regions or Continents over time. By analysing this dataset, trends and patterns are discovered, life-supporting recommendations and a real understanding of the data provided.
