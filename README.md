@@ -5,6 +5,7 @@ This involves the step-by-step Analysis of Life Expectancy Dataset.
 ### Project Overview
 This project aims to analyse and extract key insights into life expectancies in various countries and regions or Continents over time. By analysing this dataset, trends and patterns are discovered, life-supporting recommendations and a real understanding of the data provided.
 
+![Screenshot 2025-04-10 012535](https://github.com/user-attachments/assets/cf09320b-38f9-49bb-be1f-a879f9994c84)
 
 ### Data Source
 Life Expectancy: The only dataset used in this analysis is the "Life Expectancy.csv", obtained from Kaggle website.
